@@ -18,7 +18,7 @@ pip install git+https://github.com/openai/whisper.git
 
 ## **📝 Usage**
 
-1. Run the script **`vid_to_text.ipynbpy`**.
+1. Run the script **`audio_to_text.ipynbpy`**.
 2. Enter the URL of the YouTube video you want to download when prompted.
 3. The audio will be downloaded and transcribed automatically.
 

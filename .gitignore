@@ -1,6 +1,2 @@
-# folders to ignore
 venv/
-videos/
 audios/
-resources/
-temp/

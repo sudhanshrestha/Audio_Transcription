@@ -29,6 +29,9 @@ pip install git+https://github.com/openai/whisper.git
 - [SpeechRecognition](https://github.com/Uberi/speech_recognition): Used for recognizing speech in audio files.
 - [pydub](https://github.com/jiaaro/pydub): Used for audio processing.
 - [Whisper](https://github.com/openai/whisper): OpenAI's Whisper model for transcribing audio.
+- torch
+- ffmpeg installed 
+
 
 ## **💡 How it Works**
 

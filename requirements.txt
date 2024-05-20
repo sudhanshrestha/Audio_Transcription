@@ -1,0 +1,7 @@
+pytube
+moviepy
+SpeechRecognition
+pydub
+ffmpeg
+git+https://github.com/openai/whisper.git
+tqdm
